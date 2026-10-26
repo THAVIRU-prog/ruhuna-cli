@@ -17,3 +17,9 @@ A lightweight command-line utility tool built by a Computer Science student at t
    ```bash
    git clone [https://github.com/THAVIRU-prog/ruhuna-cli.git](https://github.com/THAVIRU-prog/ruhuna-cli.git)
    cd ruhuna-cli
+2. open the terminal inside the Ruhuna-cli folder and type this command.
+   (This creates a safe, isolated container for your project's Python packages.)
+    python -m venv venv
+
+3.then type this command to activate the virtual environment.
+   venv\Scripts\activate

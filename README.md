@@ -15,5 +15,5 @@ A lightweight command-line utility tool built by a Computer Science student at t
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/ruhuna-cli.git](https://github.com/YOUR-USERNAME/ruhuna-cli.git)
+   git clone [https://github.com/THAVIRU-prog/ruhuna-cli.git](https://github.com/THAVIRU-prog/ruhuna-cli.git)
    cd ruhuna-cli
